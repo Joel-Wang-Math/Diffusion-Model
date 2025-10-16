@@ -6,5 +6,5 @@ Topics include:
 - Ornstein–Uhlenbeck process
 - Reverse-time SDE for generative modeling
 
-📄 [Slides (PDF)](./DRP_slides.pdf)
+📄 [Slides (PDF)](./DRP_diffusion_model.pdf)
 🎓 Conducted at the University of Wisconsin–Madison under the mentorship of Borong Zhang.
